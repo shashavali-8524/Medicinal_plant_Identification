@@ -80,9 +80,6 @@ This project is a Streamlit web application that identifies medicinal plants fro
 📸 **Screenshots**
 <img width="1829" height="937" alt="image" src="https://github.com/user-attachments/assets/f74d3737-a19d-466c-a5aa-0876c831ebd5" />
 
-
-
-
 📬 **Contact**
 
 If you have any questions or suggestions, feel free to contact me at [shashavali8524@gmail.com](mailto:shashavali8524@gmail.com).
